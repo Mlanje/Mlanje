@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mlanje
+- 👋 Hi, I’m @Emmanuel Nollo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Software Development
